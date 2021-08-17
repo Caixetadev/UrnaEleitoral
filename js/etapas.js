@@ -55,7 +55,7 @@ let etapas = [
               numero: '13',
               nome: 'Lula',
               partido: 'PT',
-              vice: 'José Alencar',
+              vice: 'Fernando Haddad',
               fotos: [
                   {url: 'https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2018/BR/BR/2022802018/280000625869/foto_1534363925445.jpg', legenda: 'Presidente'},
                   {url: 'https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2018/BR/BR/2022802018/280000629808/foto_1536701262333.jpg', legenda: 'Vice-Presidente', small: true}
